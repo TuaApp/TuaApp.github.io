@@ -144,7 +144,7 @@ img{
     grid-template-columns: 20% 20% 20%;
     grid-template-rows: repeat(auto-fill, 300px);
 
-    gap: 50px;
+    gap: 55px;
 
 }
 
